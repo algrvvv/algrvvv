@@ -38,9 +38,3 @@
     <img src="https://streak-stats.demolab.com/?user=algrvvv&amp;hide_border=true&amp;background=0D1117&amp;ring=91A7BD&amp;fire=DEAF87&amp;currStreakNum=E7EBF1&amp;sideNums=DCE3EA&amp;currStreakLabel=A1B1C2&amp;sideLabels=8A9AAC&amp;dates=8490A4&amp;stroke=0D1117&amp;border_radius=12&amp;card_width=495" alt="GitHub contribution streak" width="495" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://wakatime.com/@algrvvv">
-    <img src="https://wakatime.com/badge/user/6a09a2b3-d6d2-421a-871f-61b74d44ba2b.svg" alt="WakaTime total coding time" />
-  </a>
-</p>
